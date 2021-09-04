@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "name": "Yulia",
+      "number": "067 999 33 88",
+      "id": 1
+    },
+    {
+      "name": "Katy Eder",
+      "number": "099 999 9988",
+      "id": 2
+    },
+    {
+      "name": "Andry Broun",
+      "number": "38099 333 3344",
+      "id": 3
+    }
+  ]
+}
